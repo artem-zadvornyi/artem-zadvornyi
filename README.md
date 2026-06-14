@@ -1,16 +1,27 @@
-## Hi there 👋
+Hi there 👋 I’m Artem
+🎻 Violinist transitioning into software development.
+💻 Backend-focused developer passionate about Python, FastAPI, and AI-powered applications.
 
-<!--
-**artem-zadvornyi/artem-zadvornyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Current Focus
+* Building AI-powered projects
+* Improving backend development skills
+* Learning system design and software architecture
+* Preparing for my first full-time developer role
 
-Here are some ideas to get you started:
+📚 Education
+* CS50x: Introduction to Computer Science (Harvard University)
+* CS50P: Introduction to Programming with Python (Harvard University)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Tech Stack
+* Python
+* FastAPI
+* SQLAlchemy
+* SQLite / PostgreSQL
+* Git & GitHub
+* REST APIs
+
+📌 Featured Project
+AI Job Tracker Platform
+AI-powered platform for job tracking, resume matching, analytics, and career management.
+
+Always learning. Always building.
